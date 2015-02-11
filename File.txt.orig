@@ -1,0 +1,8 @@
+//This is the first line of text
+<<<<<<< HEAD
+//Squid Cheese
+//This is the third line of text
+=======
+//This is the second line of text
+//Testing merging branches
+>>>>>>> origin/master
